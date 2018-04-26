@@ -1,0 +1,3 @@
+reynoldsFoam.C
+
+EXE = $(FOAM_APPBIN)/reynoldsFoam
